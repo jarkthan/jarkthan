@@ -5,4 +5,4 @@
 - 📫 You can reach me by GitHub, Email, and LinkedIn. 
 
 Email: thanakorn.jark@gmail.com
-LinkedIn: https://www.linkedin.com/in/thanakorn-runglerdkriangkrai-536a51219/
+LinkedIn: [https://www.linkedin.com/in/thanakorn-runglerdkriangkrai-536a51219/](https://www.linkedin.com/in/thanakorn-jark/)
