@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Thanakorn
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on applications of data science and machine learning in the energy, manufacturing, automation, aerospace, and other related industries.
+- 👀 I’m interested in data engineering and machine learning.
+- 🌱 I’m currently learning Python, SQL, Azure, and Kafka.
+- 💞️ I’m willing to collaborate on applications of data engineering and machine learning.
 - 📫 You can reach me by GitHub, Email, and LinkedIn. 
 
 Email: thanakorn.jark@gmail.com
