@@ -4,7 +4,7 @@ Hi 👋 My name is Thanakorn Runglerdkriangkrai
 Data/Integration Engineer
 -------------------------
 
-Because I love the challenge of solving problems, working with software problems are what I enjoy doing. I started with Python, creating games and simple file manipulation. Then got a chance to do some DAX and M during my internships which then inspires me to learn other tools to achieve self-service analytics. Therefore I am currently learning how to use Kafka, Azure Functions, .Net, Databricks, Python, and many more to develop robust and well-thought-out solutions a good software engineer should develop.
+Because I love the challenge of solving problems, working with software problems are what I enjoy doing. I started with Python, creating games and simple file manipulation. Then got a chance to do some DAX and M during my internships which then inspires me to learn other tools to help companies achieve self-service analytics. Therefore I am currently learning how to use Kafka, Azure Functions, .Net, Databricks, Python, and many more to develop robust and well-thought-out solutions a good software engineer should develop.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [thanakorn.jark@gmail.com](mailto:thanakorn.jark@gmail.com)
