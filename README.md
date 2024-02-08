@@ -8,7 +8,7 @@ Because I love the challenge of solving problems, working with software problems
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [thanakorn.jark@gmail.com](mailto:thanakorn.jark@gmail.com)
-* 🧠  I'm learning C# .NET, Kafka, Azure
+* 🧠  I'm working with Python, SQL, Azure, Kafka, Spark, Databricks
 
 ### Skills
 
